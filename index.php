@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>PHP HomeWork 2</title>
+	<title>PHP HomeWork 3</title>
 	<style>
 		body {
 			padding-left: 10px;
